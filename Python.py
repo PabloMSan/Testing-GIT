@@ -13,5 +13,7 @@ fig, ax = plt.subplots(1,1)
 ax.plot(x,y,"r-")
 ax.set_xlabel("Angulo")
 ax.set_ylabel("Seno")
+ax.set_title("Representación de la Función Seno")
+
 
 
